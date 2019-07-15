@@ -1,4 +1,7 @@
 #!/bin/bash
+# 参考サイト
+# https://qiita.com/wnoguchi/items/f7358a227dfe2640cce3
+
 git config --global user.name "Yuta Shimogishi"
 git config --global user.email "techreis@techreis.jp"
 git config --global core.editor 'vim -c "set fenc=utf-8"'
