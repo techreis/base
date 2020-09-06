@@ -28,6 +28,7 @@ octref.veturoctref.vetur # Vueのハイライトプラグイン
 VisualStudioExptTeam.vscodeintellicode # AIコード補完
 ms-python.python # Python補完
 dbaeumer.vscode-eslint # ESLint
+tomoki1207.vscode-input-sequence # 連番をつけるのに便利
 )
 
 for i in ${pkglist[@]}; do
