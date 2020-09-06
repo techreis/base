@@ -24,6 +24,7 @@ IBM.output-colorizer # Outputに色をつける
 rogalmic.bash-debug # Bash作成をサポート
 shardulm94.trailing-spaces # 行末の空白をハイライト
 stevencl.addDocComments # jsdoc追加
+octref.veturoctref.vetur # Vueのハイライトプラグイン
 )
 
 for i in ${pkglist[@]}; do
