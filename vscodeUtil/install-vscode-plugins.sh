@@ -25,6 +25,9 @@ rogalmic.bash-debug # Bash作成をサポート
 shardulm94.trailing-spaces # 行末の空白をハイライト
 stevencl.addDocComments # jsdoc追加
 octref.veturoctref.vetur # Vueのハイライトプラグイン
+VisualStudioExptTeam.vscodeintellicode # AIコード補完
+ms-python.python # Python補完
+dbaeumer.vscode-eslint # ESLint
 )
 
 for i in ${pkglist[@]}; do
